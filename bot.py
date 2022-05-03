@@ -1,6 +1,5 @@
 import nltk
 import os
-os.add_dll_directory("C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.6/bin")
 from nltk.stem import WordNetLemmatizer
 import pickle
 import numpy as np
